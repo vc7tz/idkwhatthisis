@@ -48,3 +48,9 @@ li img {
 li img:hover {
     transform: scale(1.045);
 }
+
+audio {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+}
