@@ -1,0 +1,50 @@
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin-top: 25px;
+}
+
+h1 {
+    font-size: 50px;
+    color: #80461B;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    color: #6F4E37;
+    text-align: center;
+}
+
+body {
+    background-color: #FAF0E6;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    gap: 30px;
+    justify-content: center;
+    padding: 0;
+    display: flex;
+}
+
+li {
+    color: #834c24;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+li img {
+    transition: transform 0.3s ease;
+}
+li img:hover {
+    transform: scale(1.045);
+}
