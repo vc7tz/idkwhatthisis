@@ -51,6 +51,6 @@ li img:hover {
 
 audio {
     display: block;
-    margin: 0 auto;
+    margin: auto;
     margin-top: 50px;
 }
